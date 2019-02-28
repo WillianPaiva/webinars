@@ -1,0 +1,62 @@
+* A little about me!
+
+
+** my name is Willian Ver Valen
+
+** I'm a Brazilian
+*** but i live in France
+
+** Masters Degree in Software Engineering
+
+** Lead Data Scientist at Hubstairs
+
+** Mentor at Udacity
+
+** Nanodegrees
+
+   - Computer Vision
+   - Deep Learning
+   - Machine Learning Engineer
+
+** https://www.linkedin.com/willianpaiva
+
+
+* webinars
+
+** once a week
+
+** date to be defined ...
+
+** git: https://github.com/WillianPaiva/webinars
+
+
+* Mentoring
+
+** 1:1 calls weekly (via slack)
+*** https://calendly.com/udacity_mentoring_drlnd/30min
+
+** close follow up on progress
+
+** weekly AMA will be hold in the slack channel
+
+
+* DRLND
+
+** divided in 4 parts
+
+*** Introduction to Deep Reinforcement Learning
+**** no project!
+
+
+*** Value-Based Methods
+**** Navigation
+**** Optimize Your GitHub Profile
+
+
+*** Policy-Based Methods
+**** Continuous Control
+**** Improve Your LinkedIn Profile
+
+
+*** Multi-Agent Reinforcement Learning
+**** Collaboration and Competition
