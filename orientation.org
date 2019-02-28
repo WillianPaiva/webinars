@@ -1,6 +1,5 @@
 * A little about me!
 
-
 ** my name is Willian Ver Valen
 
 ** I'm a Brazilian
@@ -12,18 +11,20 @@
 
 ** Mentor at Udacity
 
-** Nanodegrees
-
-   - Computer Vision
-   - Deep Learning
-   - Machine Learning Engineer
-
 ** https://www.linkedin.com/willianpaiva
+
+
+* Nanodegrees
+
+** Computer Vision
+** Deep Learning
+** Machine Learning Engineer
+
 
 
 * webinars
 
-** once a week
+** once a week on this channel
 
 ** date to be defined ...
 
@@ -42,21 +43,28 @@
 
 * DRLND
 
-** divided in 4 parts
-
 *** Introduction to Deep Reinforcement Learning
 **** no project!
-
 
 *** Value-Based Methods
 **** Navigation
 **** Optimize Your GitHub Profile
 
-
 *** Policy-Based Methods
 **** Continuous Control
 **** Improve Your LinkedIn Profile
 
-
 *** Multi-Agent Reinforcement Learning
 **** Collaboration and Competition
+
+* Don't
+
+
+******* Plagiarise
+
+******* Share your project with the other students
+
+*** please follow the Code of Honor (https://eu.udacity.com/legal/community-guidelines)
+
+
+* Questions???
