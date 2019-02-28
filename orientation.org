@@ -57,14 +57,14 @@
 *** Multi-Agent Reinforcement Learning
 **** Collaboration and Competition
 
-* Don't
+* Dos and Don'ts
 
 
-******* Plagiarise
+******* don't plagiarise
 
-******* Share your project with the other students
+******* don't share your project with the other students
 
-*** please follow the Code of Honor (https://eu.udacity.com/legal/community-guidelines)
+*** please do follow the Code of Honor (https://eu.udacity.com/legal/community-guidelines)
 
 
 * Questions???
