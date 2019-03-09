@@ -57,6 +57,15 @@
 *** Multi-Agent Reinforcement Learning
 **** Collaboration and Competition
 
+
+* Dead lines
+
+** Ongoing suggested deadlines for individual projects
+
+** A final term deadline for passing all projects in the Nanodegree program
+
+
+
 * Dos and Don'ts
 
 
